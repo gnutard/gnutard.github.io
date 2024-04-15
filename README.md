@@ -1,1 +1,1 @@
-code for my beautiful website
+code for my beautiful website (rarely updated)
